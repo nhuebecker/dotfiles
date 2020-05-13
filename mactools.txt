@@ -1,0 +1,9 @@
+node
+git
+wget
+tree
+vim 
+neovim
+zsh-completions
+starship
+github/gh/gh

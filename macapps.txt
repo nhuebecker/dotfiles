@@ -1,0 +1,7 @@
+hyper
+1password
+visual-studio-code
+docker
+discord
+slack-beta
+now
