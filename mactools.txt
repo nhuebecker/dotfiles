@@ -4,6 +4,7 @@ wget
 tree
 vim 
 neovim
+yarn
 zsh-completions
 starship
 github/gh/gh
