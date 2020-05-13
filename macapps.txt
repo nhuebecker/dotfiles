@@ -3,6 +3,6 @@ hyper
 visual-studio-code
 docker
 discord
-slack-beta
+slack
 superhuman
 now
