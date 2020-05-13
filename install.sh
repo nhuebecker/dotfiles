@@ -40,12 +40,6 @@ sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install
 
 # Move Folders
 log "Move Folders"
-# - Remove and Link Vim
-log "- Move .vimrx and .vim"
-# rm -rf ~/.vimrc
-# ln -sv ~/.dotfiles/runcom/.vimrc ~
-# rm -rf ~/.vim
-# ln -sv ~/.dotfiles/runcom/.vim ~
 
 # Remove and Link Hyper
 log "- Move .hyper.js"
