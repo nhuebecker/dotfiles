@@ -2,9 +2,12 @@ node
 git
 wget
 tree
-vim 
+vim
 neovim
 yarn
 zsh-completions
 starship
 github/gh/gh
+ranger
+python
+deno

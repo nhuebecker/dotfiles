@@ -6,3 +6,5 @@ discord
 slack
 superhuman
 now
+font-jetbrains-mono
+yubico-yubikey-manager
